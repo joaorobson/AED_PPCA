@@ -2,6 +2,13 @@
 
 Este repositório contém os dados, scripts e resultados relacionados ao artigo que explora a aplicação de **GraphRAG** e **RAG Naive** em consultas a grafos de conhecimento construídos com o suporte do **LLM Graph Builder** e **Neo4j**.
 
+## Integrantes
+
+- João Robson Santos Martins
+- Angelo Donizete Buso Júnior
+- Clayton Alboy Monaro Inácio
+- Zilber Rondineli Verona Sepúlveda
+
 ## Objetivo do Projeto
 
 O objetivo deste projeto é comparar a eficiência de dois modos de interação baseados em RAG:
